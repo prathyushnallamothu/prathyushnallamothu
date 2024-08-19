@@ -19,15 +19,16 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of traveler-foodLover-gamer-coder-programmer hybrid",
-		"- 🔭 I’m currently working on":      "Research assistant at Central Michigan University",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, Docker, Nodejs, GCP --- Sharpening my Front End Skills for the Full stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Golang, REST API's, Microservices, gRPC",
-		"- 📫 How to reach me:":              "https://www.linkedin.com/in/prathyush-nallamothu",
+		"- ⚡ Quick bio:":                    "A kind of traveler-foodLover-gamer-coder-programmer hybrid who excels in backend development and cloud technologies",
+		"- 🔭 I’m currently working on":      "Developing innovative tools at Skillsoft as a Software Engineer II, focusing on developer productivity and automation",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, Docker, and Kubernetes; aiming to master full-stack development",
+		"- 👯 I’m looking to collaborate on": "Golang, Docker, and Kubernetes projects, especially those that enhance developer productivity",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning, especially advanced Kubernetes and Helm chart configurations",
+		"- 💬 Ask me about":                  "Golang, REST APIs, Microservices, gRPC, and building AI-powered solutions",
+		"- 📫 How to reach me:":              "https://www.linkedin.com/in/prathyushnallamothu",
 	}
 }
+
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
