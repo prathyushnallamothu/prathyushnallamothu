@@ -19,15 +19,16 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of traveler-foodLover-gamer-coder-programmer hybrid who excels in backend development and cloud technologies",
-		"- 🔭 I’m currently working on":      "Developing innovative tools at Skillsoft as a Software Engineer II, focusing on developer productivity and automation",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, Docker, and Kubernetes; aiming to master full-stack development",
-		"- 👯 I’m looking to collaborate on": "Golang, Docker, and Kubernetes projects, especially those that enhance developer productivity",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning, especially advanced Kubernetes and Helm chart configurations",
-		"- 💬 Ask me about":                  "Golang, REST APIs, Microservices, gRPC, and building AI-powered solutions",
+		"- ⚡ Quick bio:":                    "Enthusiastic developer blending a passion for backend engineering and cloud tech, with a love for traveling, food, gaming, and coding.",
+		"- 🔭 I’m currently working on":      "Driving productivity and innovation as a Software Engineer II at Skillsoft by developing automation tools and enhancing CI/CD processes.",
+		"- 🌱 I’m currently learning":        "Advanced Kubernetes, Helm, and full-stack development with Golang, Docker, and cloud architectures.",
+		"- 👯 I’m looking to collaborate on": "Projects in Golang, cloud automation, and Kubernetes that improve developer workflows and system reliability.",
+		"- 🤔 I’m looking for help with":     "Advanced Helm configurations and exploring complex Kubernetes architectures.",
+		"- 💬 Ask me about":                  "Backend development, Golang, cloud tools, microservices, and building AI-powered developer tools.",
 		"- 📫 How to reach me:":              "https://www.linkedin.com/in/prathyushnallamothu",
 	}
 }
+
 
 ```
 
